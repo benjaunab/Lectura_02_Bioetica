@@ -17,4 +17,4 @@ _R_:  Algunos de los requisitos necesarios para que una investigacion sea etica,
 ### 7.	Indique cuáles son las ventajas y las desventajas que ofrecen los estudios de países desarrollados ejecutados en países como el nuestro.
 _R_: __Ventajas__: Las ventajas son aportar al pais uevas tecnologías, capacitación del personal sanitario, mejoramiento de infraestructuras y tratamientos estandarizados y la formación de investigadores locales.
     
-    __Desventajas__: Unas de las desventaja es que el consentimiento informado redactado en el país sea poco comprensible y existe el riesgo de abuso.
+   __Desventajas__: Unas de las desventaja es que el consentimiento informado redactado en el país sea poco comprensible y existe el riesgo de abuso.
