@@ -1,5 +1,6 @@
 # Lectura 02 Bioetica _"Reflexiones sobre los principios éticos en investigación biomédica en seres humanos"_
 
+### Alumno: Benjamin Flores Oviedo 
 ## Preguntas
 
 ### 1.	Tuvo el Código de Nürenberg algún impacto mundial? 
